@@ -1,2 +1,2 @@
 # unchained
-Learn Django
+Learn Web Development
